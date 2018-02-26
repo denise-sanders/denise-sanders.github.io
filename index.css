@@ -51,8 +51,10 @@ a {
     overflow: hidden;
     height: 100%;
     bottom: -1px;
+    /* It is so hard to pick a color. */
     /*background-image: linear-gradient(to top, #86377b 20%, #27273c 80%);*/
-	background-image: linear-gradient(to top, #FF7846 20%, #f45f42 80%);
+    /* background-image: linear-gradient(to top, #FF7846 20%, #f45f42 80%); orange */ 
+    background-image: linear-gradient(to top, #3385FF 20%, #66A3FF 80%); /* blue */
 }
 .bgTop {
     z-index: 15;
