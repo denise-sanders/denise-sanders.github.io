@@ -21,10 +21,7 @@ a {
 	margin-right: 20%
 }
 
-.body {
-	
-    margin-top: 20%;
-}
+
 @keyframes move_wave {
     0% {
         transform: translateX(0) translateZ(0) scaleY(1)
